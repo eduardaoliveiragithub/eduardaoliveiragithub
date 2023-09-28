@@ -1,6 +1,6 @@
 ### Olá, me conheça melhor !
 
-- 👨🏻‍💻 Buscando primeiro emprego
+- 👨🏻‍💻 Trabalhando na AFESU-Veleiros
 - 🌱 Estudante no SENAC - Santo Amaro
 - 🧶 Adoro crochê e literatura 
 - 📫 Contate-me: eduardaoliveiramp@gmail.com
