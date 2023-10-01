@@ -7,7 +7,7 @@
 - 🏳️‍🌈 Pronomes: ele/dele
 <div>
 
-<a href="[https://github.com/rafaballerini](https://github.com/eduardaoliveiragithub)">
+<a href="[https://github.com/eduardaoliveiragithub](https://github.com/eduardaoliveiragithub)">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaoliveiragithub&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
 
