@@ -5,14 +5,17 @@
 - 🧶 Adoro crochê e literatura 
 - 📫 Contate-me: eduardaoliveiramp@gmail.com
 - 🏳️‍🌈 Pronomes: ele/dele
-<div>
+
 
 <a href="[https://github.com/eduardaoliveiragithub](https://github.com/eduardaoliveiragithub)">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaoliveiragithub&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+<div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaoliveiragithub&theme=dark"/>
+<hr>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eduardaoliveiragithub&theme=dark&background=000000)](https://git.io/streak-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaoliveiragithub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+ <hr>
  
 </div>
 
